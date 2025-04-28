@@ -23,7 +23,7 @@ const HowItWorks = () => {
       </ol>
       <div className="mt-12">
         <p className="text-lg text-gray-700 max-w-2xl mx-auto">
-          By following these steps, you will have a fully personalized experience that adapts to your lifestyle. Whether you're looking to improve your fitness, eat healthier, or just feel more energized, our platform has everything you need to succeed.
+          By following these steps, you will have a fully personalized experience that adapts to your lifestyle. Whether you are looking to improve your fitness, eat healthier, or just feel more energized, our platform has everything you need to succeed.
         </p>
         <p className="text-lg text-gray-700 max-w-2xl mx-auto mt-4">
           Ready to get started? Join now and take the first step towards a healthier you.
