@@ -16,7 +16,7 @@ const Testimonials = () => {
       <div className="grid md:grid-cols-2 gap-8">
         {testimonials.map((t, idx) => (
           <div key={idx} className="bg-gray-100 p-6 rounded-lg shadow-md">
-            <p className="italic mb-4">"{t.feedback}"</p>
+            <p className="italic mb-4">{t.feedback}</p>
             <h4 className="font-semibold">{t.name}</h4>
           </div>
         ))}
